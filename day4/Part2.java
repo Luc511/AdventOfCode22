@@ -34,17 +34,13 @@ public class Part2 {
                     }
                 }
             }
-
-            if (true) {
-                count++;
-            }
         }
         scan.close();
         System.out.println(count);
     }
 
     public static int[] createInterval(int section1, int section2) {
-        int[] interval = new int[section2 - section1];
+        int[] interval = new int[section2 - section1 + 1];
         int j = 0;
         for (int i = section1; j < interval.length; i++) {
             interval[j] = i;
