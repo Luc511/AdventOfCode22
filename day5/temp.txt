@@ -1,0 +1,59 @@
+
+        char[] stack1 = new char[57];
+        char[] stack2 = new char[57];
+        char[] stack3 = new char[57];
+        char[] stack4 = new char[57];
+        char[] stack5 = new char[57];
+        char[] stack6 = new char[57];
+        char[] stack7 = new char[57];
+        char[] stack8 = new char[57];
+        char[] stack9 = new char[57];
+
+        stack1[0]='B';
+        stack1[1]='G';
+        stack1[2]='S';
+        stack1[3]='C';
+
+        stack2[0]='T';
+        stack2[1]='M';
+        stack2[2]='W';
+        stack2[3]='H';
+        stack2[4]='J';
+        stack2[5]='N';
+        stack2[6]='V';
+        stack2[7]='G';
+
+        stack3[0]='M';
+        stack3[1]='Q';
+        stack3[2]='S';
+
+        stack4[0]='B';
+        stack4[1]='S';
+        stack4[2]='L';
+        stack4[3]='T';
+        stack4[4]='W';
+        stack4[5]='N';
+        stack4[6]='M';
+
+        stack5[0]='J';
+        stack5[1]='Z';
+        stack5[2]='F';
+        stack5[3]='T';
+        stack5[4]='V';
+        stack5[5]='G';
+        stack5[6]='W';
+        stack5[7]='P';
+
+        stack6[0]='C';
+        stack6[1]='T';
+        stack6[2]='B';
+        stack6[3]='G';
+        stack6[4]='Q';
+        stack6[5]='H';
+        stack6[6]='S';
+
+        stack7[0]='T';
+        stack7[1]='J';
+        stack7[2]='P';
+        stack7[3]='B';
+        stack7[4]='W';
