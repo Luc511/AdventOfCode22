@@ -113,7 +113,7 @@ public class Part2 {
                     for (int j = 0; j < stack[i].length; j++) {
                         if (stack[i][j] == 'a') {
                             for (int k = j; tempCount < number; k++) {
-                                stack[i][k] = temp[number];
+                                stack[i][k] = temp[number-1];
                                 number--;
                             }
                             break;
